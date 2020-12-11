@@ -59,7 +59,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ewhtp4s GitHub Stats" src="https://github-readme-stats.ewhtp4.vercel.app/api?username=ewhtp4&show_icons=true&hide_border=true" />
+  <img align="left" alt="ewhtp4s GitHub Stats" src="https://github-readme-stats-amber-phi-89.vercel.app/api?username=ewhtp4&show_icons=true&hide_border=true" />
 
 </details>
 
