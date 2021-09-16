@@ -1,12 +1,11 @@
 ### Hi there, I'm Slavi - aka [ewhtp4][instagram] aka Bunny👋
 
 
-## Software Engineer , Game Developer, Pentester!!
+## Software Engineer, Pentester!!
 
-- 🔭 I am looking to publish my frist indie game Subconscious.
-- 🌱 I’m currently working on my C++ skills.
-- 👯 I’m looking to collaborate with others on security related projects and games. 
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🔭 I’m currently working as a Backend NestJs Software Engineer.
+- 🌱 Working on my C++ skills.
+- 🥅 2021 Goals: Publish my own Web App.
 - ⚡ Fun fact: I love to draw, skydive and scuba dive.
 
 
