@@ -1,7 +1,7 @@
 ### Hi there, I'm Slavi - aka [ewhtp4][instagram] aka Bunny👋
 
 
-## Software Engineer, Pentester!!
+## Software Engineer, Pentester
 
 - 🔭 I’m currently working as a Backend NestJs Software Engineer.
 - 🌱 Working on my C++ skills.
