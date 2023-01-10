@@ -1,11 +1,10 @@
-### Hi there, I'm Slavi - aka [ewhtp4][instagram] aka Bunny👋
+### Hi there, I'm Slavi👋
 
 
 ## Software Engineer, Pentester
 
-- 🔭 I’m currently working as a Backend NestJs Software Engineer.
-- 🌱 Working on my C++ skills.
-- 🥅 2021 Goals: Publish my own Web App.
+- 🔭 I’m currently working as a Tech Lead.
+- 🥅 2023 Goals: To crush it!
 - ⚡ Fun fact: I love to draw, skydive and scuba dive.
 
 
